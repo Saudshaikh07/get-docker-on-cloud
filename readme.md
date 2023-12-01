@@ -2,7 +2,7 @@
 
 Clone this url
 ```
-git clone https://github.com/javeedsocial/get-docker-on-cloud.git
+git clone https://github.com/Saudshaikh07/get-docker-on-cloud.git
 ```
 navigate to folder
 ```
